@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.ant-upload{
+	width: 100% !important;
+	margin: 0 !important;
+}
